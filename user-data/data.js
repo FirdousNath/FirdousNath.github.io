@@ -20,7 +20,7 @@ export const experience = [
       "Built a robust permission guard system for over 300 features using Dart build runner via custom annotation, ensuring secure and controlled access based on market availability (UK, Germany or India).",
       "Organized and maintained over 50+ Confluence pages covering code documentation, product demos & future development roadmaps ensuring a clear & accessible knowledge repository for the team.",
     ],
-    tags: ["Flutter"," Mason CLI", "Spring boot", "Docker", "AWS"],
+    tags: ["Flutter", " Mason CLI", "Spring boot", "Docker", "AWS"],
     icon: "qrcode",
   },
   {
@@ -34,7 +34,7 @@ export const experience = [
       "Implemented BDD tests, achieving ~70% code coverage & 99% crash reduction (Firebase Crashlytics) boosting stability & developer confidence for fearless refactoring.",
     ],
     tags: [
-      "Flutter", "PostgreSQL","GraphQL", "NodeJS", "AWS", "Fastlane", "Firebase",
+      "Flutter", "PostgreSQL", "GraphQL", "NodeJS", "AWS", "Fastlane", "Firebase",
     ],
     icon: "hashtag",
   },
@@ -43,10 +43,10 @@ export const experience = [
     duration: "June 2020 - April 2022",
     subtitle: "Senior Software Engineer",
     details: [
-    "Designed an algorithm to detect fake cycling rides with ~95% accuracy.",
-    "Architected a ride-saving strategy with a 100% success rate which enhanced user satisfaction.",
-    "Designed \"Athletes of the Week\" which increases the retention rate of athletes 80% on a weekly basis.",
-    "Transitioned Hub91 and Team91 Android apps from Java to Kotlin in just 3 months.",
+      "Designed an algorithm to detect fake cycling rides with ~95% accuracy.",
+      "Architected a ride-saving strategy with a 100% success rate which enhanced user satisfaction.",
+      "Designed \"Athletes of the Week\" which increases the retention rate of athletes 80% on a weekly basis.",
+      "Transitioned Hub91 and Team91 Android apps from Java to Kotlin in just 3 months.",
     ],
     tags: ["JavaScript", "React-native", "AWS Amplify", "Bootstrap", "Nodejs"],
     icon: "bicycle",
@@ -56,9 +56,9 @@ export const experience = [
     duration: "May 2017- May 2020",
     subtitle: "Software Development Engineer",
     details: [
-    "Engineered and delivered high-impact educational mobile apps used by over 200,000 students for renowned institutions like Resonance, JK Shah,The Gate Academy & Endurance.",
-    "Developed a desktop app to boost admin efficiency by 50% for managing videos, notes & tests.",
-    "Integrated a video processing pipeline that converts videos to the HLS format in three size variations, resulting in a 30% reduction in bandwidth usage & significantly faster loading times for end users.",
+      "Engineered and delivered high-impact educational mobile apps used by over 200,000 students for renowned institutions like Resonance, JK Shah,The Gate Academy & Endurance.",
+      "Developed a desktop app to boost admin efficiency by 50% for managing videos, notes & tests.",
+      "Integrated a video processing pipeline that converts videos to the HLS format in three size variations, resulting in a 30% reduction in bandwidth usage & significantly faster loading times for end users.",
     ],
     tags: ["Android", "Realm", "Java", "Kotlin", "ElectronJS"],
     icon: "graduation-cap",
@@ -95,14 +95,14 @@ export const footer = [
   {
     label: "Links",
     data: [
-        {
-          text: "Linkedin",
-          link: "https://www.linkedin.com/in/firdous-nath/",
-        },
-        {
-          text: "Github",
-          link: "https://github.com/firdousnath",
-        },
+      {
+        text: "Linkedin",
+        link: "https://www.linkedin.com/in/firdous-nath/",
+      },
+      {
+        text: "Github",
+        link: "https://github.com/firdousnath",
+      },
     ],
   },
   {
